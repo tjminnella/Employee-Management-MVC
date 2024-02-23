@@ -1,0 +1,3 @@
+2023-11-10 19:48:43.7603|WARN|EmployeeManagement.Controllers.HomeController|Warning Log
+2023-11-10 19:48:44.6873|ERROR|EmployeeManagement.Controllers.HomeController|Error Log
+2023-11-10 19:48:44.7710|FATAL|EmployeeManagement.Controllers.HomeController|Critical Log

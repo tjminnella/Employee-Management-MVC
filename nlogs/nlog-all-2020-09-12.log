@@ -1,0 +1,19 @@
+2020-09-12 16:46:12.0231|WARN|EmployeeManagement.Controllers.HomeController|Warning Log
+2020-09-12 16:46:12.0231|ERROR|EmployeeManagement.Controllers.HomeController|Error Log
+2020-09-12 16:46:12.0343|FATAL|EmployeeManagement.Controllers.HomeController|Critical Log
+2020-09-12 16:46:12.0343|WARN|EmployeeManagement.Models.SQLEmployeeRepository|Warning Log
+2020-09-12 16:46:12.0475|ERROR|EmployeeManagement.Models.SQLEmployeeRepository|Error Log
+2020-09-12 16:46:12.0475|FATAL|EmployeeManagement.Models.SQLEmployeeRepository|Critical Log
+2020-09-12 17:10:02.2514|ERROR|Microsoft.AspNetCore.Mvc.Infrastructure.ActionSelector|Request matched multiple actions resulting in ambiguity. Matching actions: EmployeeManagement.Controllers.HomeController.Index (EmployeeManagement)
+EmployeeManagement.Controllers.HomeController.Index (EmployeeManagement)
+2020-09-12 17:10:02.3114|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-09-12 17:13:40.0180|WARN|EmployeeManagement.Models.SQLEmployeeRepository|Warning Log
+2020-09-12 17:13:40.0557|ERROR|EmployeeManagement.Models.SQLEmployeeRepository|Error Log
+2020-09-12 17:13:40.0557|FATAL|EmployeeManagement.Models.SQLEmployeeRepository|Critical Log
+2020-09-12 17:14:19.2143|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-09-12 17:14:30.4966|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-09-12 17:20:01.8713|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-09-12 17:20:43.5986|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-09-12 17:22:14.9904|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-09-12 17:22:32.8918|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-09-12 17:24:35.0387|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.

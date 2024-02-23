@@ -1,0 +1,3 @@
+2020-09-14 11:58:45.2026|WARN|EmployeeManagement.Controllers.HomeController|Warning Log
+2020-09-14 11:58:45.2523|ERROR|EmployeeManagement.Controllers.HomeController|Error Log
+2020-09-14 11:58:45.2669|FATAL|EmployeeManagement.Controllers.HomeController|Critical Log
